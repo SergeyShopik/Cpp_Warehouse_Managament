@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\training\training\Source.cpp(45,6): warning C4101: nod: неиспользованная локальная переменная
+C:\Users\HP\source\repos\training\training\Source.cpp(163,16): warning C4101: chestsNeeded: неиспользованная локальная переменная
+C:\Users\HP\source\repos\training\training\Source.cpp(163,13): warning C4101: p: неиспользованная локальная переменная
+C:\Users\HP\source\repos\training\training\Source.cpp(63): warning C4715: nod: значение возвращается не при всех путях выполнения
+  training.vcxproj -> C:\Users\HP\source\repos\training\Debug\training.exe
